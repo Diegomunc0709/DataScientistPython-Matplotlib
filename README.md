@@ -1,3 +1,3 @@
 # PythonDataScientist
 
-Ruta Data Scientist con ypthon del curso de Platzi
+Ruta Data Scientist con Python del curso de Platzi
